@@ -29,6 +29,10 @@ export const mockMetadata = (
 });
 
 export const mockData = {
+    MOCK_SUBJECTS: {
+        id: 1,
+        name: 'naeem'
+    },
     MOCK_USER: {
         id: 1,
         firstName: 'Sharan',

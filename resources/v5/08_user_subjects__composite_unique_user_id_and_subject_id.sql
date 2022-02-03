@@ -1,0 +1,1 @@
+alter table user_subjects add constraint user_subjects__idx__unique_user_id_subject_id UNIQUE(user_id, subject_id);
